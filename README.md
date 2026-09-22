@@ -1,6 +1,6 @@
 # Dhemerson Sousa
 
-Estudante de Ciência da Computação na UFRJ, com foco em back-end. Procurando o primeiro estágio.
+Estudante de Ciência da Computação na UFRJ. Procurando estágio em back-end.
 
 Comecei programando em C, onde aprendi na prática gerenciamento de memória, estruturas de dados e persistência em arquivos. Hoje construo APIs em Python com Flask e MySQL, e estou estudando Java.
 
