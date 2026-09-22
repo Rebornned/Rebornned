@@ -1,6 +1,6 @@
 # Dhemerson Sousa
 
-Estudante de Ciência da Computação na UFRJ. Procurando estágio em back-end.
+Estudante de Ciência da Computação na UFRJ, com foco em back-end. Procurando o primeiro estágio.
 
 Comecei programando em C, onde aprendi na prática gerenciamento de memória, estruturas de dados e persistência em arquivos. Hoje construo APIs em Python com Flask e MySQL, e estou estudando Java.
 
@@ -21,4 +21,4 @@ Comecei programando em C, onde aprendi na prática gerenciamento de memória, es
 ## Contato
 
 - E-mail: [dhemersonsousa.dev@gmail.com](mailto:dhemersonsousa.dev@gmail.com)
-- LinkedIn: [dhemerson-sousa-039435292](https://www.linkedin.com/in/dhemerson-sousa)
+- LinkedIn: [dhemerson-sousa](https://www.linkedin.com/in/dhemerson-sousa)
