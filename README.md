@@ -21,4 +21,4 @@ Comecei programando em C, onde aprendi na prática gerenciamento de memória, es
 ## Contato
 
 - E-mail: [dhemersonsousa.dev@gmail.com](mailto:dhemersonsousa.dev@gmail.com)
-- LinkedIn: [dhemerson-sousa-039435292](https://www.linkedin.com/in/dhemerson-sousa-039435292)
+- LinkedIn: [dhemerson-sousa-039435292](https://www.linkedin.com/in/dhemerson-sousa)
